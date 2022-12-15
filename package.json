@@ -31,7 +31,7 @@
     "dotenv": "^5.0.0",
     "ejs": "^2.5.7",
     "email-validator": "^2.0.4",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "express-restify-mongoose": "^6.1.2",
     "express-session": "^1.15.6",
     "group-array": "^0.3.3",
