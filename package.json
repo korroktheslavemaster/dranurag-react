@@ -36,7 +36,7 @@
     "express-session": "^1.15.6",
     "group-array": "^0.3.3",
     "idempotent-babel-polyfill": "^7.4.4",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "moment": "^2.19.1",
     "moment-timezone": "^0.5.14",
     "mongoose": "^5.10.18",
